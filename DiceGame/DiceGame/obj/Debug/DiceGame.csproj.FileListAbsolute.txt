@@ -1,0 +1,24 @@
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\DiceGame\DiceGame\obj\Debug\DiceGame.csprojResolveAssemblyReference.cache
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+E:\Submissions\Programming and Structures\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+E:\Submissions\Programming and Structures\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+E:\Submissions\Programming and Structures\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+H:\Submissions\Programming and Structures\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+H:\Submissions\Programming and Structures\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+H:\Submissions\Programming and Structures\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+H:\Submissions\Programming and Structures\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+H:\Submissions\Programming and Structures\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+H:\Submissions\Programming and Structures\DiceGame\DiceGame\obj\Debug\DiceGame.csprojResolveAssemblyReference.cache
+E:\Submissions\Programming and Structures\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+E:\Submissions\Programming and Structures\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+E:\Submissions\Programming and Structures\DiceGame\DiceGame\obj\Debug\DiceGame.csprojResolveAssemblyReference.cache
+H:\Submissions\Programming and Structures\Assessment 2\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+H:\Submissions\Programming and Structures\Assessment 2\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+H:\Submissions\Programming and Structures\Assessment 2\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+C:\Users\Antanas\Desktop\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Antanas\Desktop\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Antanas\Desktop\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
